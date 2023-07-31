@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Birbal55
 - 👀 I’m interested in competitive programming.
-- 🌱 I’m currently learning java
+- 🌱 I’m full stack java developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
